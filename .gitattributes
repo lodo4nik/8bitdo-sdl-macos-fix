@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.command text eol=lf
+*.zsh text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
